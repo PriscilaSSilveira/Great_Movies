@@ -1,0 +1,11 @@
+body{
+
+}
+
+.nav-extended{
+    background-image: url("camera.png");
+    background-size:inherit;
+    background-blend-mode: soft-light;
+    background-repeat: unset;
+}
+
