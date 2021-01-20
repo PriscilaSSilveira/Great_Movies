@@ -1,6 +1,6 @@
 <?php include "cabecalho.php" ?>
 
-<body>
+<body> 
     <nav class="nav-extended teal light-3">
         <div class="nav-wrapper">
             <ul id="nav-mobile" class="right">
